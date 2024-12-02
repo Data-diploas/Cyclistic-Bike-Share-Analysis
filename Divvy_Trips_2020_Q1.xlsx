@@ -1,2 +1,4 @@
 cd path/to/your/repository
 git rm path/to/file
+git commit -m "Remove fiel_name from repository"
+git push origin branch_name
