@@ -47,9 +47,8 @@ Recommendations
 
 How to View the Project
 
-1. Visualizations: View the charts in the visualizations folder (add actual folder link).
-2. Full Report: Download the project report here ((add link)).
-3. Data Scripts: Scripts for analysis can be found in the scripts folder (add actual folder link).
+1. Visualizations: View the charts in the visualizations folder (https://drive.google.com/file/d/1JEDi4vu-lE-jq0LZUMRnMyRlv7n0CI09/view?usp=sharing).
+2. Full Report: Download the project report here (https://docs.google.com/document/d/1NBAQaQpb3KeUmk66D-ZN3tLdPj4hAhUC/edit?usp=sharing&ouid=116368426666854803075&rtpof=true&sd=true).
 
 Skills Highlighted
 
@@ -62,6 +61,6 @@ Contact Information
 
 Feel free to connect for more details or collaborations:
 Name: Reshma SJ
-LinkedIn: Your LinkedIn Profile
-Email: Your Email Address
+LinkedIn: (https://linkedin.com/in/reshma-s-j)
+Email: sjreshma5@gmail.com
 
